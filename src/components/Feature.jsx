@@ -72,11 +72,11 @@ const Feature = () => {
       </Left>
       <Right>
         <Title>
-          <b>Bom</b> design
+          <b>Ótimo</b> design
           <br />
           <b>Excelente</b> negócio
         </Title>
-        <SubTitle>Nós sabemos que um bom design significa um excelente negócio.</SubTitle>
+        <SubTitle>Nós sabemos que um ótimo design significa um excelente negócio.</SubTitle>
         <Desc>
           Nós ajudamos nossos clientes a conquistar seus objetivos criando identidades visuais, experiências digitais inovadoras e materiais gráficos que comunicam claramente com seu consumidor. Alcance suas metas e seja visualmente incrível.
         </Desc>
